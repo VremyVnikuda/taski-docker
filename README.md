@@ -202,5 +202,5 @@ sudo systemctl reload nginx
 ```
 sudo tail /var/log/nginx/access.log
 ```
-### Над проектом работала(бэкенд и деплой)
+### Над проектом работал(бэкенд и деплой)
 Антон Копнин
